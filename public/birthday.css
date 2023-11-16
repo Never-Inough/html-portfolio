@@ -1,0 +1,29 @@
+h1, h2 {
+    text-align: center;
+}
+
+h3,#bring {
+    text-transform: capitalize;
+}
+img {
+    float: left;
+    display: inline-block;
+}
+
+div2 {
+    position:relative;
+}
+
+#div22 {
+    position: absolute;
+    left: 480px;
+    color: white;
+}
+#div3 {
+    position: relative;
+    clear: left;
+    text-align:center;
+}
+html {
+    background-color: #8CA064;
+}
